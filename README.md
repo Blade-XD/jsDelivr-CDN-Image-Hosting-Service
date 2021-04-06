@@ -1,2 +1,2 @@
 # jsDelivr-CDN-Image-Hosting-Service
-for saving image by python practices
+for python practices to saving image
